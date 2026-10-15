@@ -63,6 +63,5 @@
 
 <div align="center">
 
-*Thanks for stopping by ✨ Feel free to connect or collaborate!*
 
 </div>
