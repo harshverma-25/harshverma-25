@@ -12,14 +12,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 I build full-stack web applications, from responsive React interfaces to Node.js APIs and database design.
-- ⚡ I enjoy real-time features, clean TypeScript, and well-structured backends.
-- 🌱 Always learning, and always shipping something new.
-- 📫 The best way to reach me is by email or LinkedIn.
-
----
 
 ## 🛠 Tech Stack
 
